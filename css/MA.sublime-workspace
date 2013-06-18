@@ -1,0 +1,709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user-name"
+			],
+			[
+				"test",
+				"testArray"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"m",
+				"multiply"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"mu",
+				"multiplies"
+			],
+			[
+				"multip",
+				"multiply"
+			],
+			[
+				"st",
+				"str2"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"media",
+				"css3-media-queries"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bloo",
+				"bloodOfDracula"
+			],
+			[
+				"backgroun",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ericsmacair/Desktop/Web Projects/Tom/website/MechanicalAmoeba/index.html",
+			"settings":
+			{
+				"buffer_size": 6308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "reset.css",
+			"settings":
+			{
+				"buffer_size": 1092,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "normalize.css",
+			"settings":
+			{
+				"buffer_size": 9016,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "user.css",
+			"settings":
+			{
+				"buffer_size": 10622,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			],
+			[
+				"lo",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: New View into File"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ericsmacair/Desktop/Web Projects/Tom/MechanicalAmoeba/css/font-awesome.min.css",
+		"/Users/ericsmacair/Desktop/Web Projects/Tom/MechanicalAmoeba/css/font-awesome.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson14/Exercise_Return_Functions/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson14/Basic_Functions/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson14/Basic_Functions/js/runner.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson14/Basic_Functions/js/exercise.js",
+		"/Users/ericsmacair/Documents/Blog Posts/Using Sublime Text Editor OUTLINE",
+		"/Users/ericsmacair/Documents/Blog Posts/Unfinished Blog Posts.txt",
+		"/Users/ericsmacair/Documents/Blog Posts/Distraction Free Writing - Using Sublime Text Editor",
+		"/Users/ericsmacair/Documents/Blog Posts/Distraction Free Writing",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson13/loops_code_along/js/exercise.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson13/arrays/js/runner.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson13/arrays/js/exercise.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson13/loops_exercise/js/exercise.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson13/slides.md",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/ex_IfElse/js/runner.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/coa_conditionals/conditionals.js",
+		"/Volumes/314241F8-F8AC-4056-BED7-B3D220666639-29342-00007021217BFB1D/data_types/js/runner.js",
+		"/Volumes/314241F8-F8AC-4056-BED7-B3D220666639-29342-00007021217BFB1D/data_types/js/exercise.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/ex_line_by_line/line_by_line.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/data_types/js/exercise.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/data_types/index.html",
+		"/Volumes/314241F8-F8AC-4056-BED7-B3D220666639-29342-00007021217BFB1D/data_types/css/style.css",
+		"/Volumes/314241F8-F8AC-4056-BED7-B3D220666639-29342-00007021217BFB1D/data_types/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/slides.md",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/ex_line_by_line/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson12/GA - intro to computation",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 11/ex_adding_scripts/css/style.css",
+		"/Users/ericsmacair/Desktop/GeoDex-angular-seed/app/index.html",
+		"/Users/ericsmacair/Desktop/GeoDex-angular-seed/app/css/app.css",
+		"/Users/ericsmacair/GeoDex/GeoDex/app/views/pages/index.html.erb",
+		"/Users/ericsmacair/GeoDex/GeoDex/README.rdoc",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 11/ex_adding_scripts/js/fruithover.js",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 11/ex_adding_scripts/index.html",
+		"/Users/ericsmacair/Desktop/MechanicalAmoeba/css/user.css",
+		"/Users/ericsmacair/Desktop/MechanicalAmoeba/css/reset.css",
+		"/Users/ericsmacair/Desktop/MechanicalAmoeba/css/font-awesome.min.css",
+		"/Users/ericsmacair/Desktop/MechanicalAmoeba/css/font-awesome.css",
+		"/Users/ericsmacair/Desktop/MechanicalAmoeba/css/normalize.css",
+		"/Users/ericsmacair/Desktop/tom/website/draft/MechanicalAmoeba/index.html",
+		"/Users/ericsmacair/Desktop/tom/website/draft/MechanicalAmoeba/backup/index.html",
+		"/Users/ericsmacair/Desktop/Mechanical Amoeba/html backup/index.html",
+		"/Users/ericsmacair/Desktop/Mechanical Amoeba/css/normalize.min.css",
+		"/Users/ericsmacair/Desktop/Mechanical Amoeba/css/normalize.css",
+		"/Users/ericsmacair/Desktop/Mechanical Amoeba/css/main.css",
+		"/Users/ericsmacair/Desktop/tom/website/draft/Lesson7/busyHands/css/image.css",
+		"/Users/ericsmacair/Desktop/tom/website/draft/Lesson7/busyHands/css/style.css",
+		"/Users/ericsmacair/Desktop/tom/website/draft/Lesson7/busyHands/index.html",
+		"/Users/ericsmacair/Desktop/tom/website/draft/html55up-halcyonic/css/style-mobile.css",
+		"/Users/ericsmacair/Desktop/tom/website/draft/html55up-halcyonic/css/ie9.css",
+		"/Users/ericsmacair/Desktop/tom/website/draft/html55up-halcyonic/css/style-1000px.css",
+		"/Users/ericsmacair/Desktop/tom/website/Mechanical Amoeba/css/main.css",
+		"/Users/ericsmacair/Desktop/tom/website/Mechanical Amoeba/css/bootstrap-responsive.css",
+		"/Users/ericsmacair/Desktop/tom/website/Mechanical Amoeba/css/bootstrap.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/busyHands/css/reset.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/busyHands/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/2 col template/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/2 col template/css/reset.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/2 col template/css/normalize.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/2 col template/css/image.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/2 col template/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/in class lab Wed lesson 6/nav-image/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/in class lab Wed lesson 6/nav-image/css/reset.css",
+		"/Users/ericsmacair/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ericsmacair/Desktop/FEWD/working/in class lab Wed lesson 6/sprites-social/css/reset.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/bigsquare/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/bigsquare/css/reset.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/lesson 7/bigsquare/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/lesson 7/busy-hands/readme.html",
+		"/Users/ericsmacair/Desktop/FEWD/two-column-layout/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/lesson 7/bigsquare/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/lesson 7/bigsquare/css/reset.css",
+		"/Users/ericsmacair/Desktop/FEWD/lesson 7/bigsquare/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/in class lab Wed lesson 6/nav-image/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/in class lab Wed lesson 6/nav-simple/css/style.css",
+		"/Users/ericsmacair/Desktop/eric-band website/pages/index.html",
+		"/Users/ericsmacair/Desktop/eric-band website/pages/store.html",
+		"/Users/ericsmacair/Desktop/eric-band website/pages/bio.html",
+		"/Users/ericsmacair/Desktop/eric-band website/pages/media.html",
+		"/Users/ericsmacair/Desktop/eric-band website/pages/news.html",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson 4a_art-is-hard/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/working/ecardly/index.html",
+		"/Users/ericsmacair/Desktop/ecardly/css/normalize.css",
+		"/Users/ericsmacair/Desktop/ecardly/css/style.css",
+		"/Users/ericsmacair/Desktop/ecardly/index.html",
+		"/Users/ericsmacair/Desktop/ecardly/untitled.html",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson2/pages/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson2/css/style.css",
+		"/Users/ericsmacair/Desktop/ecardly/readme.html",
+		"/Users/ericsmacair/Desktop/FEWD/working/Lesson2/pages/index.html",
+		"/Users/ericsmacair/Desktop/art-is-hard/index.html",
+		"/Users/ericsmacair/Desktop/art-is-hard/css/normalize.css",
+		"/Users/ericsmacair/Desktop/art-is-hard/css/style.css",
+		"/Users/ericsmacair/Downloads/slides (1).md",
+		"/Users/ericsmacair/Downloads/slides (2).md",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson1b/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson1b/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Travel/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Travel/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson2a/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson2a/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson2a/css/reset.css",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/sftp-config.json",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson 1b/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson 1b/css/style.css",
+		"/Users/ericsmacair/Desktop/FEWD/Eric/Lesson1a/index.html",
+		"/Users/ericsmacair/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/private/var/folders/rh/y84mw0cs5_ndz4wq6vf3cdj80000gn/T/0e2f8697-1fef-49a7-8237-3a06a677aba0/home/student/HK/FEWD1/Eric/index.html",
+		"/Users/ericsmacair/Desktop/FEWD/lesson 1/lesson 1.html",
+		"/Users/ericsmacair/Documents/Code/What4Lunch/Perl/scrapper 2.pl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"360px",
+			"2.5rem",
+			"360px",
+			"-",
+			"var\\w.+",
+			"col3",
+			"message",
+			"main-blurb",
+			"main",
+			"more",
+			"span10",
+			"font-fam",
+			"border",
+			"email",
+			"main-container",
+			"main",
+			"wrapper",
+			"aside",
+			"get",
+			"col-50",
+			"span80",
+			"col3",
+			"center",
+			"full",
+			"half",
+			"half center",
+			"half",
+			"intro",
+			"subheadline",
+			"blog_feed",
+			"blog feed",
+			"font-family",
+			".container",
+			".containter",
+			"#email",
+			"#email banner",
+			"unit",
+			"hero-unit",
+			"min-width",
+			"media",
+			"@media",
+			"media",
+			"has-padding",
+			"mediamax-width has-padding",
+			"img",
+			"body",
+			"body{",
+			"body",
+			"background-color",
+			"body",
+			"span",
+			"span 4",
+			"Project ",
+			"Project",
+			"Project name",
+			"css",
+			"foote",
+			"footer",
+			"quote",
+			"request quote",
+			"main",
+			"#social",
+			"nav",
+			"	\n",
+			"<a href=\"\"></a>",
+			"=\"\"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ericsmacair/Desktop/Web Projects/Tom/website/MechanicalAmoeba/index.html",
+					"settings":
+					{
+						"buffer_size": 6308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								831,
+								831
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 218.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "reset.css",
+					"settings":
+					{
+						"buffer_size": 1092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "normalize.css",
+					"settings":
+					{
+						"buffer_size": 9016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "user.css",
+					"settings":
+					{
+						"buffer_size": 10622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7079,
+								7079
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7676.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.461204386189,
+			0.851020686191,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Using Sublime Text Editor to Create Blog Posts!"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
