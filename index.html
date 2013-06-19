@@ -1,4 +1,68 @@
 <!DOCTYPE html>
+
+<!-- 
+General Assemb.ly
+Front End Web Development
+Final Submission
+
+Project Name: MechanicalAmoeba
+Client: Tom Grek
+Author: Eric Tsoi
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM          M    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM  M MMM   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM  M MMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMM  MMMMMMMMMM MMMMMMM  M MMMMMMM        MM  MMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMM    MMMMMMMMM MMMMMMM  M MMMMMMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMM  MMMM  MMMMMMM MMMMMMM  M MMMMMMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMM   MMMMMM   MMMMM MMMMMMM  M MMMMMMMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMM
+MMMMMMMMMMM  MMMMMMMMMM  MMM  MMMMMMM  M MMMMMMMMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMM
+MMMMMMMMM   MMMMMMMMMMMM    MMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMMMMMMMM
+MMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMM      MMMMMMMMM
+MMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMM
+MMMM   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM
+MMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMM
+MMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM
+MMMMMMMMM   MMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM
+MMMMMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM
+MMMMMMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMM
+MMMMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   MMMMM
+MMMMMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   MMMM
+            MMMMMMMMMMMMMMMMMMMMMM     M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMM
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   M
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMM   MMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   M
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MM
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMM
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMM
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMM
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   MMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMM
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM    MMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MMM
+MMMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMM
+MMMMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MM
+MMMMMMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  MM
+MMMMMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMMMM     MMMMMMMMMMMMMMM  MM
+MMMMMMMMM   MMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMM   MMMM   MMMMMMMMMMM  MMM
+MMMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMM  MMMMMMMM MMMMMMMM    MMMM
+MMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMM  MMMMMMMMM MMMMMM  MMMMMMM
+MMMM   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMM  MMMMMMMMM MMMMM  MMMMMMMM
+MMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMM  MMMMMMMM MMMMM  MMMMMMMMM
+MMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMM  M MMMMMMMMMMMMM  MMMMM   MMMM  MMMMMMMMMM
+MMMMMMMM   MMMMMMMMMMMMM   MMMMMMMMMM  M MMMMMMMMMMMMMMM      MMMMMM  MMMMMMMMMM
+MMMMMMMMMM  MMMMMMMMMMM  MM   MMMMMMM  M MMMMMMMM     MMMMMMMMMMMMMM  MMMMMMMMMM
+MMMMMMMMMMMM  MMMMMMM   MMMMM MMMMMMM  M MMMMMMMM MMM  MMMMMMMMMMMMM MMMMMMMMMMM
+MMMMMMMMMMMMM   MMMM  MMMMMMM MMMMMMM  M MMMMMMMM  M   MMMMMMMMMMM  MMMMMMMMMMMM
+MMMMMMMMMMMMMMM  M  MMMMMMMMM MMMMMMM  M MMMMMMMMM   MMMMMM        MMMMMMMMMMMMM
+MMMMMMMMMMMMMMMM   MMMMMMMMMM MMMMMMM  M MMMMMMMMMMMMMMM    MMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM  M MMMMMMMMMMMMMMM  MMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM  M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM MMMMMMM  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+ -->
+
+
 <html>
 <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -61,12 +125,12 @@
         </div><!-- end of main text -->
 
         <div class="clearfix half" id="main-img">
-          <img class="25-img" src="./index_files/banner.jpg">
+          <img class="25-img" alt="banner" src="./index_files/banner.jpg">
         </div><!-- end of main-img -->
       </div><!-- end of span12 -->
     </div><!-- end of row -->
 
-    <div class="clearfix" id="email-banner">
+    <div class="clearfix email-banner">
       <div class="message half">
         <p>Not ready to patent your idea? Sign up and we'll remind you in 3 months.</p>
       </div><!-- end of message -->
@@ -81,111 +145,109 @@
 
     <div class="row clearfix">
       <div class="span10 clearfix" id="col3">
-        <div class="clearfix" id="third">
-          <img alt="group-icon" data-filetype="icons" src="./index_files/group-icon.png">
+        <div class="clearfix third">
+          <img data-filetype="icons" alt="group-icon" src="./index_files/group-icon.png">
 
           <h3 class="center main-text">Mechanical Amoeba</h3><a class="readmore center" href=
           "#">Our
           applications not only look good but are also a joy to use</a>
         </div><!-- third -->
 
-        <div class="clearfix" id="third">
-          <img alt="clear-icon" data-filetype="icons" src="./index_files/clear-icon.png">
+        <div class="clearfix third">
+          <img data-filetype="icons" alt="clear-icon" src="./index_files/clear-icon.png">
 
           <h3 class="center main-text">Clear Your Idea</h3><a class="readmore center" href=
           "#">Our
           applications not only look good but are also a joy to use</a>
         </div><!-- third -->
 
-        <div class="clearfix" id="third">
-          <img alt="write-icon" data-filetype="icons" src="./index_files/write-icon.png">
+        <div class="clearfix third">
+          <img data-filetype="icons" alt="write-icon" src="./index_files/write-icon.png">
 
           <h3 class="center main-text">Write Your Patent</h3><a class="readmore center" href=
           "#">Our
           applications not only look good but are also a joy to use</a>
         </div><!-- third -->
-      </div><!-- end of span10 third -->
+      </div><!-- end of span10 -->
     </div><!-- end of row -->
     <!-- start of main -->
 
 
 
     <div class="row clearfix" id="blurb-col">
-      <div class="span12" id="main-blurb">
+      <div class="span12 main-blurb">
         <h2>NEED TO KNOW</h2>
 
         <h3>If you have the time you can probably do a lot of this stuff yourself.<br>
         Here are some of the tricks of the trade</h3>
-      </div><!-- end of span10 third -->
+      </div><!-- end of span10 -->
 
       <div class="span12">
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img1.jpg">
+          <img class="img25" alt="image1" src="./index_files/img1.jpg">
           <div class="title_25">
             <p>THE RELEVANCE OF PATENTS TO STARTUPS.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img2.jpg">
+          <img class="img25" alt="image2" src="./index_files/img2.jpg">
           <div class="title_25">
             <p>WHERE WHEN AND WHY TO SEARCH AND APPLY.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img3.jpg">
+          <img class="img25" alt="image3" src="./index_files/img3.jpg">
           <div class="title_25">
             <p>HOW TO: PATENT APPLICATIONS.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img4.jpg">
+          <img class="img25" alt="image4" src="./index_files/img4.jpg">
           <div class="title_25">
             <p>PRODUCT CLEARANCE & PATENT SEARCHING.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img9.jpg">
+          <img class="img25" alt="image9" src="./index_files/img9.jpg">
           <div class="title_25">
             <p>HOW TO: INVENTION ANALYSIS.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img5.jpg">
+          <img class="img25" alt="image5" src="./index_files/img5.jpg">
           <div class="title_25">
             <p>ARTIFICIAL INTELLIGENCE AND PATENTS.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img7.jpg">
+          <img class="img25" alt="image7" src="./index_files/img7.jpg">
           <div class="title_25">
             <p>COSTS, PRICING AND VALUE.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/img8.jpg">
+          <img class="img25" alt="image8" src="./index_files/img8.jpg">
           <div class="title_25">
             <p>F.A.Q.</p>
           </div>
         </div><!-- end of col-25 -->
 
-
-
-
-       
-
-
       </div><!-- end of span12 -->
     </div><!-- end of row main-blurb-->
 
+
+
+
+
     <div class="row clearfix">
-      <div class="span12" id="main-blurb">
+      <div class="span12 main-blurb">
         <h2 class="clearfix" id="more">More coverage of random and interesting things at the
         Mechanical Amoeba blog</h2>
       </div><!-- end of span12 main-blurb-->
@@ -194,45 +256,45 @@
     <div class="row clearfix" id="testimonial-col">
       <div class="span12" id="testimonial">
         <h2>Testimonial</h2>
-      </div><!-- end of span10 third -->
+      </div><!-- end of span12 -->
 
       <div class="span12">
 
          <div class="clearfix col-25">
-          <img class="img25" src="./index_files/elon_musk.jpg">
+          <img class="img25" alt="elon_musk" src="./index_files/elon_musk.jpg">
           <div class="title_25">
             <p>Elon Musk Lorem proident aliquip nisi pariatur.</p>
           </div>
         </div><!-- end of col-25 -->
       
          <div class="clearfix col-25">
-          <img class="img25" src="./index_files/Tony-Stark.jpg">
+          <img class="img25" alt="Tony-Stark" src="./index_files/Tony-Stark.jpg">
           <div class="title_25">
             <p>Tony Stark Lorem ipsum pariatur fugiat.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/julian_lee.jpg">
+          <img class="img25" alt="julian_lee" src="./index_files/julian_lee.jpg">
           <div class="title_25">
             <p>Julian Lee Lorem ipsum Aliqua fugiat.</p>
           </div>
         </div><!-- end of col-25 -->
 
         <div class="clearfix col-25">
-          <img class="img25" src="./index_files/tom_grek.jpg">
+          <img class="img25" alt="tom_grek" src="./index_files/tom_grek.jpg">
           <div class="title_25">
             <p>Tom Grek Lorem ipsum Aliqua proident aliquip nisi.</p>
           </div>
         </div><!-- end of col-25 -->
 
       </div><!-- end of span12 -->
-    </div><!-- end of row main-blurb-->
+    </div><!-- end of row testimonial-->
 
 
 
 
-    <div class="clearfix" id="email-banner">
+    <div class="clearfix email-banner">
       <div class="message half">
         <p>Not ready to patent your idea? Sign up and we'll remind you in 3 months.</p>
       </div><!-- end of message -->
@@ -301,4 +363,4 @@
     <!-- end of container -->
   </div>
 </body>
-</html>
+</html>        

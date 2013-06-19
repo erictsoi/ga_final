@@ -1,7 +1,13 @@
 /* 
+
+General Assemb.ly
+Front End Web Development
+Final Submission
+
 Project Name: MechanicalAmoeba
 Client: Tom Grek
 Author: Eric Tsoi
+
 */
 /******************************************
 /* SETUP                   
@@ -160,17 +166,17 @@ float: left;
 margin: 0% 0%;
 }
 
-#email-banner {
+.email-banner {
 background-color: #a200ee;
 padding: 0 8%;
 font-size: 1.3em;
 height: 80px;
 }
 
-#email-banner {
+.email-banner {
 }
 
-#email-banner form {
+.email-banner form {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   display: inline-block;
@@ -181,23 +187,23 @@ height: 80px;
 
 
 
-#email-banner input[type=email] {
+.email-banner input[type=email] {
   background: #fff;
   border: 1px solid #e2e2e2;
 }
 
-#email-banner input[type=button] {
+.email-banner input[type=button] {
   padding: .5rem;
 }
 
-#email-banner input[type=email] {
+.email-banner input[type=email] {
   width: 60%;
   margin-right: 2%;
   float: left;
   margin-bottom: 0;
 }
 
-#email-banner input[type=button] {
+.email-banner input[type=button] {
   margin-top: 0;
   width: 33%;
 }
@@ -247,7 +253,7 @@ color: #fff;*/
 /*  border-bottom: 2px solid gray;
 */}
 
-#third {
+.third {
   float: left;
   width: 31.5%;
   height: auto;
@@ -255,7 +261,7 @@ color: #fff;*/
   color: #000;
 }
 
-#third h3 {
+.third h3 {
   text-align: center;
   color: #000;
   text-decoration: none;
@@ -263,7 +269,7 @@ color: #fff;*/
   font-size: 1.2em;
 }
 
-#third a {
+.third a {
   text-align: justify;
   color: #000;
   text-decoration: none;
@@ -271,12 +277,12 @@ color: #fff;*/
   margin: 10% 6% -10%;
 }
 
-#third span {
+.third span {
   font-size: 5em;
   display: block;
 }
 
-#third img {
+.third img {
   display: block;
   min-width: 85%;
   max-width: 100%;
@@ -373,7 +379,7 @@ text-align: center;
 /******************************************
 /* blurb            
 /*******************************************/
-#main-blurb {
+.main-blurb {
   text-align: left;
   font-size: 1em;
   font-family: Georgia,Impact,Arial;
@@ -552,19 +558,19 @@ footer li:hover,footer a:hover,#social span:hover {
     display:none;
   }
 
-  #email-banner {
+  .email-banner {
   background-color: #a200ee;
   height: 100%;
   padding: 2% 2%;
   }
 
-  #email-banner input[type=email] {
+  .email-banner input[type=email] {
   width: 100%;
   margin-right: 2%;
   margin-bottom: 0;
   }
 
-  #email-banner input[type=button] {
+  .email-banner input[type=button] {
   margin-top: 0;
   width: 100%;
   }
@@ -573,14 +579,14 @@ footer li:hover,footer a:hover,#social span:hover {
   border: none;
   }
 
-  #third {
+  .third {
   width: 100%;
   padding: 15% 2%;
   color: #000;
   border-top:2px solid gray;
   }
 
-  #third img {
+  .third img {
   display: none;
   }
 
@@ -592,11 +598,11 @@ footer li:hover,footer a:hover,#social span:hover {
   display: none;
   }
 
-  #third:first-child {
+  .third:first-child {
   border-top: none;
   }
 
-  #third:last-child {
+  .third:last-child {
   border-bottom: none;
   }
 
@@ -608,11 +614,11 @@ footer li:hover,footer a:hover,#social span:hover {
   display: none;
   }
   
-  #main-blurb {
+  .main-blurb {
   display: none;
   }
 
-  #email-banner form {
+  .email-banner form {
   margin-top: 0rem;
   margin-bottom: 0rem;
   display: inline-block;
@@ -649,18 +655,18 @@ footer li:hover,footer a:hover,#social span:hover {
 
   }
 
-  #email-banner {
+  .email-banner {
   background-color: #a200ee;
   height:230px;
   }
 
-  #email-banner input[type=email] {
+  .email-banner input[type=email] {
   width: 100%;
   margin-right: 2%;
   margin-bottom: 0;
   }
 
-  #email-banner input[type=button] {
+  .email-banner input[type=button] {
   margin-top: 0;
   width: 100%;
   }
@@ -669,14 +675,14 @@ footer li:hover,footer a:hover,#social span:hover {
   border: none;
   }
 
-  #third {
+  .third {
   width: 100%;
   padding: 5% 0%;
   color: #000;
   border-top: 2px solid gray;
   }
 
-  #third h3 {
+  .third h3 {
   float: left;
   text-align: center;
   color: #000;
@@ -687,7 +693,7 @@ footer li:hover,footer a:hover,#social span:hover {
   margin: 5% 0% 5% 10%;
   }
 
-  #third a {
+  .third a {
   float: left;
   text-align: justify;
   color: #000;
@@ -697,7 +703,7 @@ footer li:hover,footer a:hover,#social span:hover {
   width: 50%;
   }
 
-  #third img {
+  .third img {
   display: block;
   min-width: 10%;
   max-width: 40%;
@@ -713,11 +719,11 @@ footer li:hover,footer a:hover,#social span:hover {
   display: none;
   }
 
-  #third:first-child {
+  .third:first-child {
   border-top: none;
   }
 
-  #third:last-child {
+  .third:last-child {
   border-bottom: none;
   }
 
@@ -729,7 +735,7 @@ footer li:hover,footer a:hover,#social span:hover {
   display: none;
   }
   
-  #main-blurb {
+  .main-blurb {
   display: none;
   }
 
@@ -768,24 +774,24 @@ footer li:hover,footer a:hover,#social span:hover {
 
   }
 
-  #email-banner {
+  .email-banner {
   background-color: #a200ee;
   height: 150px;
   }
 
-  #email-banner input[type=email] {
+  .email-banner input[type=email] {
   width: 100%;
   margin-right: 2%;
   margin-bottom: 0;
   }
 
-  #email-banner input[type=button] {
+  .email-banner input[type=button] {
   margin-top: 0;
   width: 100%;
   }
 
 
-  #email-banner form {
+  .email-banner form {
   margin-top: 1rem;
   margin-bottom: 1rem;
   display: inline-block;
@@ -816,7 +822,7 @@ footer li:hover,footer a:hover,#social span:hover {
   margin: 1% 0 2% 1%;
   }
 
-  #third {
+  .third {
   float: left;
   width: 31.5%;
   height: auto;
@@ -824,7 +830,7 @@ footer li:hover,footer a:hover,#social span:hover {
   color: #000;
   }
 
-  #third h3 {
+  .third h3 {
   text-align: center;
   color: #000;
   text-decoration: none;
@@ -832,7 +838,7 @@ footer li:hover,footer a:hover,#social span:hover {
   font-size: 1.2em;
   }
 
-  #third a {
+  .third a {
   text-align: justify;
   color: #000;
   text-decoration: none;
@@ -840,19 +846,19 @@ footer li:hover,footer a:hover,#social span:hover {
   margin: 10% 6% -10%;
   }
 
-  #third span {
+  .third span {
   font-size: 5em;
   display: block;
   }
 
-  #third img {
+  .third img {
   display: block;
   min-width: 85%;
   max-width: 100%;
   margin: auto;
   }
 
-  #main-blurb {
+  .main-blurb {
   text-align: left;
   font-size: 1em;
   font-family: Georgia,Impact,Arial;
